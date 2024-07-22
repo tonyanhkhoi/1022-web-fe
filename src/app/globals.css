@@ -1,4 +1,4 @@
-:root {
+/* :root {
   --max-width: 1100px;
   --border-radius: 12px;
   --font-mono: ui-monospace, Menlo, Monaco, "Cascadia Mono", "Segoe UI Mono",
@@ -104,4 +104,48 @@ a {
   html {
     color-scheme: dark;
   }
+} */
+
+body {
+  font-family: Arial, sans-serif;
+}
+
+.qr-code {
+  max-width: 100px;
+}
+
+.phone-number {
+  /* font-size: 24px;
+  font-weight: bold; */
+  color: yellow;
+}
+
+footer {
+  font-size: 12px;
+}
+
+.image-wrap {
+  max-width: 100%;
+  margin: 0 auto;
+}
+
+.img-fluid {
+  max-width: 100%;
+  height: auto;
+}
+
+.bg-cuslor{
+  background-color: #1872C5; 
+}
+
+.invi-text{
+  color: #1872C5;
+}
+
+.extra-text-padding {
+  padding-left: 15%; 
+}
+
+.extra-left-padding {
+  padding-left: 6.5%; 
 }
