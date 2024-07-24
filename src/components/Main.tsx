@@ -7,7 +7,7 @@ const Main: React.FC = () => {
     <main className="text-white py-4 px-5 bg-cuslor">
       <div className="container px-5">
         <section className="mb-4">
-          <h3 className="text-center">Trợ lý số 1022:</h3>
+          <h3 className="text-center">Trợ lý số 1022 Test:</h3>
           <h5 className="extra-left-padding">
             Trợ lý hỗ trợ giải đáp thông tin của Tổng đài 1022. Là người hỗ trợ
             trực tuyến đáng tin cậy của Chính quyền TP. Đà Nẵng, phục vụ người

@@ -11,7 +11,7 @@ const Header: React.FC = () => {
           alt="Tổng đài dịch vụ công 1022 thông tin chính xác, kịp thời"
           width={600}
           height={1000}
-          className="img-fluid image-wrap"
+          className="img-fluid"
         />
       </div>
     </header>
